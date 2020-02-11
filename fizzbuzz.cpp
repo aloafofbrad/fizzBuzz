@@ -1,9 +1,13 @@
-#include iostream
+/* Brad
+Feb 10 2020
+Fizz buzz
+Thanks for reading */
+#include <iostream>
 using namespace std;
 
 int main()
 {
-	cout << "Hello world!\nThis is now a fizz buzz program." << endl;
+	cout << "This is a fizz buzz program." << endl;
 	int i = 0;
 	for (i = 0;i < 100;i++)
 	{
