@@ -8,7 +8,9 @@ using namespace std;
 
 int main()
 {
+	// This is where the magic happens
 	cout << "Hello world!" << endl;
+	// End magic
 	return 0;
 }
 	
